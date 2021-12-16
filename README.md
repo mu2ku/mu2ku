@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mu2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu2ku)](https://github.com/mu2ku/github-readme-stats)
+
 <!--
 **mu2ku/mu2ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
