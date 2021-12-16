@@ -6,6 +6,10 @@
 I am a self-driven and highly motivated former aerospace engineer turned software engineer with an almost 5-year career in the IT space, providing impactful IT audit services and solutions to both U.S. government agencies and public companies. I am a life-long learner and am passionate about leveraging the latest full-stack technologies and frameworks to create dynamic and innovative websites.
 
 -----
+<h2 align="center">
+  <b>Statistics</b>
+</h2>
+
 [![Mu2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu2ku&show_icons=true&theme=radical)](https://github.com/mu2ku/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 -----
