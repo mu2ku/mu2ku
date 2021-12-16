@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Mu2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu2ku&show_icons=true&theme=radical)](https://github.com/mu2ku/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mu2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu2ku&show_icons=true&theme=radical)](https://github.com/mu2ku/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
