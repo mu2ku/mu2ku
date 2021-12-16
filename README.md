@@ -1,4 +1,17 @@
+-----
+<h1 align="center">
+  <b>About Me</b>
+</h1>
+
+I am a self-driven and highly motivated former aerospace engineer turned software engineer with an almost 5-year career in the IT space, providing impactful IT audit services and solutions to both U.S. government agencies and public companies. I am a life-long learner and am passionate about leveraging the latest full-stack technologies and frameworks to create dynamic and innovative websites.
+
+-----
 [![Mu2ku's GitHub stats](https://github-readme-stats.vercel.app/api?username=mu2ku&show_icons=true&theme=radical)](https://github.com/mu2ku/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-----
+<h2 align="center">
+  <b>Specialities</b>
+</h2>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,6 +34,15 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+------
+<h2 align="center">
+  <b>Contact Me</b>
+</h2>
+
+<a href="gmutuku@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/grace-mutuku/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 <!--
 **mu2ku/mu2ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
