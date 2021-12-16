@@ -1,7 +1,7 @@
 -----
-<h1 align="center">
+<h2 align="center">
   <b>About Me</b>
-</h1>
+</h2>
 
 I am a self-driven and highly motivated former aerospace engineer turned software engineer with an almost 5-year career in the IT space, providing impactful IT audit services and solutions to both U.S. government agencies and public companies. I am a life-long learner and am passionate about leveraging the latest full-stack technologies and frameworks to create dynamic and innovative websites.
 
